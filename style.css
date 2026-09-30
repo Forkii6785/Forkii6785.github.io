@@ -22,3 +22,8 @@ ul li
 {
 	list-style-type: none;
 }
+
+p{
+	color: black;
+	font-family: Sans-serif;
+}
